@@ -1,7 +1,6 @@
 {
-    "python.formatting.provider": "black",
-    "cSpell.words": [
-        "curr",
-        "iterrows"
-    ]
+  "python.formatting.provider": "black",
+  "editor.useTabStops": false,
+  "editor.indentSize": 2,
+  "cSpell.words": ["curr", "iterrows"]
 }
